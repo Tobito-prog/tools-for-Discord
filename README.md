@@ -1,7 +1,11 @@
 # multiple tools
 
-- Générator
+- Générator nitro + verificator
 - CB générator
+- token grabber builder
+- osint tools
+- physing tools
+- nuke tools
 - and more !
 
 Download what you want !
